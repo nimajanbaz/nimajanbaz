@@ -26,7 +26,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" align="center" style="width: 100%" />
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -67,13 +67,13 @@
 ## 👨🏻‍💻 GitHub Usage stats
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/nimajanbaz">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimajanbaz&theme=dark" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/nimajanbaz">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimajanbaz&theme=dark" alt="Saif's GitHub streak"/>
   </a>
 </p>
