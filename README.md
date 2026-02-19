@@ -22,8 +22,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
 I'm a software engineer focused on building reliable, scalable products — from backend services and APIs to modern frontend applications.
@@ -32,8 +30,6 @@ I'm a software engineer focused on building reliable, scalable products — from
 - 🧩 Experience across **backend + frontend**, with a strong interest in clean architecture and maintainable code
 - 💬 Ask me about **Node.js, TypeScript, React, Next.js, Microservices, Docker, MongoDB, Redis**
 - 🛠️ I enjoy shipping features end-to-end and improving developer experience
-
----
 
 ## 🛠️ Tech Stack
 
@@ -63,15 +59,12 @@ I'm a software engineer focused on building reliable, scalable products — from
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimajanbaz&theme=algolia" />
 </div>
 
----
 
 ## 🤝 Let's Connect
 
