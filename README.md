@@ -33,9 +33,6 @@ I'm a software engineer focused on building reliable, scalable products — from
 - 💬 Ask me about **Node.js, TypeScript, React, Next.js, Microservices, Docker, MongoDB, Redis**
 - 🛠️ I enjoy shipping features end-to-end and improving developer experience
 
-<br/>
-<br/>
-
 ---
 
 ## 🛠️ Tech Stack
